@@ -88,9 +88,8 @@ Once you have completed the installation and configuration steps, you can run th
 
 2.  Run the following command:
     ```bash
-    streamlit run app.py
+    streamlit run agent.py
     ```
-    *(Assuming you have named the Python script `app.py`)*
 
 3.  The application will open in a new tab in your default web browser.
 
