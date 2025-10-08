@@ -37,7 +37,7 @@ Make sure you have Python 3.8 or higher installed on your system. You will also 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/EchoAI.git
+    git clone https://github.com/sadiakhalil125/EchoAI.git
     cd EchoAI
     ```
 
